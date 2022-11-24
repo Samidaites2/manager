@@ -115,25 +115,25 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="Commands ❓", callback_data="bot_commands"
+                text="ᴄᴏᴍᴍᴀɴᴅ 🤖", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="Dev 🛠",
-                url="https://t.me/thismebots",
+                text="ᴏᴡɴᴇʀ",
+                url="https://t.me/Banned_5",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="System Stats 🖥",
+                text="sʏsᴛᴇᴍ sᴛᴀᴛs 🖥",
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/ScatterSuport"
+                text="ᴋɪᴡ ᴋɪᴡ", url="http://t.me/banned_33"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="Add Me To Your Group 🎉",
+                text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 🎉",
                 url=f"http://t.me/{BOT_USERNAME}?startgroup=new",
             )
         ],
@@ -155,16 +155,16 @@ keyboard = InlineKeyboardMarkup(
                 url=f"t.me/{BOT_USERNAME}?start=help",
             ),
             InlineKeyboardButton(
-                text="Dev 🛠",
-                url="https://t.me/thismebots",
+                text="ᴏᴡɴᴇʀ 🛠",
+                url="https://t.me/Banned_5",
             ),
         ],
         [
             InlineKeyboardButton(
-                text="System Stats 💻",
+                text="sʏsᴛᴇᴍ sᴛᴀᴛs 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="t.me/ScatterSuport"),
+            InlineKeyboardButton(text="ᴋɪᴡ ᴋɪᴡ", url="t.me/Banned_33"),
         ],
     ]
 )
